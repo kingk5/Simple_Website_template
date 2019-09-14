@@ -1,0 +1,318 @@
+#head{
+	position:relative;
+	padding-left:50px;
+	color:B5CE15;
+	float:left;
+}
+#footleft{
+	padding-left:35px;
+	padding-right:40px;
+	width:45%;
+	float:left;
+	color:black;
+}
+
+#footright{
+	position:relative;
+	float:left;
+	width:45%;
+	height:50%;
+}
+
+#subleft{
+	position:absolute;
+	float:left;
+	width:50%;
+	line-height:1.5;
+}
+
+#subleft a{
+	font-size:16px;
+	font-family:Times;
+	color:black;
+	text-decoration:none;
+}
+
+
+#subright{
+	position:absolute;
+	float:left;
+	left:330px;
+	line-height:1.5;
+}
+
+#subright a{
+	font-size:16px;
+	font-family:Times;
+	color:black;
+	text-decoration:none;
+}
+
+#footrightbottom{
+	position:absolute;
+	top:75%;
+}
+
+#bottom{
+	position:relative;
+	top:760px;
+	background-image:url("b1.PNG");
+	height:250px;
+}
+
+.rel{
+	float:left;
+	height:170px;
+	width:300px;
+	padding-right:20px;
+}
+
+.reldiv{
+	padding-right:0;
+	border-bottom:1px dashed black;
+}
+
+#socialmedia{
+	position:absolute;
+	float:left;
+	top:0px;
+	left:400px;
+	color:white;
+	padding-right:40px;
+	background-image:url("b1.PNG");
+	
+}
+
+#recommended{
+	position:absolute;
+	float:left;
+	top:0px;
+	left:520px;
+	color:white;
+	border-left:1px dotted grey;
+	padding-left:40px;
+	background-image:url("b1.PNG");
+}
+
+#footleft a{
+	padding:5px 20px 5px 20px;
+		font-family:Times;
+		border: 1px none white;
+	border-radius:5px;
+	moz-border-radius:5px;
+	webKit-border-radius:5px;
+	color:white;
+	text-decoration:none;
+	background:url("box-red.JPG");
+}
+	
+#intro{
+	padding-top:5px;
+	padding-left:50px;
+	padding-bottom:0;
+	color:B5CE15;
+}
+
+#intropara{
+	padding-top:0px;
+	line-height:1.6;
+	font-size:20px;
+	
+}
+
+.menu a{
+		padding:5px 20px 5px 20px;
+		font-family:Times;
+		color:black;
+		text-decoration:none;
+}
+
+.menu a.current{
+	margin-top: -5px;
+	height:30px;
+	background:url("box-red.JPG");
+}
+
+.menu a.current:hover{
+	cursor:default;
+}
+
+#footrightbottom a{
+	position:absolute;
+	list-style:none;
+	left:45%;
+	font-size:20px;
+	font-family:Times;
+	color:white;
+	text-decoration:none;
+	padding:5px;
+	background:url("box-red.JPG");
+	border-radius:5px;
+	moz-border-radius:5px;
+	webKit-border-radius:5px;
+}
+	
+a:hover{
+	font-family:Times;
+	border: 1px none white;
+	border-radius:5px;
+	moz-border-radius:5px;
+	webKit-border-radius:5px;
+	color:white;
+	background:url("box-red.JPG");
+}
+
+.menu{
+	position:absolute;
+	left:900px;
+	top:0px;
+	list-style:none;
+}
+.menu li{
+	padding:30px 0 0 0;
+	float:left;
+	
+}
+
+.poster{
+	height:100%;
+	width:100%;
+}
+
+#mid{
+	position:relative;
+	width:1295px;
+	height:500px;
+}
+
+#a{
+	padding-left:35px;
+	padding-right:10px;
+	float:left;	
+	position:absolute;
+	left:0;
+	top:0;
+	height:200px;
+	width:300px;
+}
+
+#b{
+	padding-left:10px;
+	padding-right:10px;
+	float:left;
+	position:absolute;
+	left:345px;
+	top:0;
+	height:200px;
+	width:300px;
+}
+
+#c{
+	padding-left:10px;
+	padding-right:10px;
+	float:left;
+	position:absolute;
+	left:665px;
+	top:0;
+	height:200px;
+	width:300px;
+}
+
+#d{
+	padding-left:10px;
+	padding-right:10px;
+	float:left;
+	position:absolute;
+	left:985px;
+	top:0;
+	height:200px;
+	width:300px;
+}
+
+#a img{
+	width:300px;
+	height:200px;
+}
+#b img{
+	width:300px;
+	height:200px;
+}
+#c img{
+	width:300px;
+	height:200px;
+}
+#d img{
+	width:300px;
+	height:200px;
+}
+
+#a a{
+	padding:5px 20px 5px 20px;
+		font-family:Times;
+		border: 1px none white;
+	border-radius:5px;
+	moz-border-radius:5px;
+	webKit-border-radius:5px;
+	color:white;
+	text-decoration:none;
+	background:url("box-red.JPG");
+}
+
+#b a{
+	padding:5px 20px 5px 20px;
+		font-family:Times;
+		border: 1px none white;
+	border-radius:5px;
+	moz-border-radius:5px;
+	webKit-border-radius:5px;
+	color:white;
+	text-decoration:none;
+	background:url("box-red.JPG");
+}
+
+#c a{
+	padding:5px 20px 5px 20px;
+		font-family:Times;
+		border: 1px none white;
+	border-radius:5px;
+	moz-border-radius:5px;
+	webKit-border-radius:5px;
+	color:white;
+	text-decoration:none;
+	background:url("box-red.JPG");
+}
+
+#d a{
+	padding:5px 20px 5px 20px;
+		font-family:Times;
+		border: 1px none white;
+	border-radius:5px;
+	moz-border-radius:5px;
+	webKit-border-radius:5px;
+	color:white;
+	text-decoration:none;
+	background:url("box-red.JPG");
+}
+
+h3,h4{
+	color:B5CE15;
+}
+
+#midbottom{
+	padding-top:25px;
+}
+
+#copyright{
+	position:absolute;
+	left:0;
+	top:200px;
+	color:white;
+}
+
+/*.clear{
+	clear: both;
+	height:0;
+	margin:0;
+	padding:0;
+}*/
+	
